@@ -4,4 +4,4 @@
 
 ## first homework
 
-[github pages](https://github.com/juliashovhalova2010/env.git)
+[github pages](https://juliashovhalova2010.github.io/env/)
