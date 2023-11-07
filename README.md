@@ -1,2 +1,7 @@
+![Ci](https://ci.appveyor.com/project/juliashovhalova2010/env/branch/main)
 
-![CI](https://github.com/juliashovhalova2010/env/actions/workflows/web.yml/badge.svg)
+# ci/cd
+
+## first homework
+
+[github pages](https://github.com/juliashovhalova2010/env.git)
